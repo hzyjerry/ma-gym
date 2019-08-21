@@ -1,7 +1,7 @@
 # ma-gym
 A collection of multi agent environments based on OpenAI gym.
 
-[![Build Status](https://travis-ci.com/koulanurag/ma-gym.svg?token=DM2fKnVJXEZDaszt9oHm&branch=master)](https://travis-ci.com/koulanurag/ma-gym)
+In this version, I would be making all gym environments agents async so that they can be even used in turn by turn games.
 
 ## Installation
 ```bash
